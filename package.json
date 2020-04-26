@@ -1,0 +1,14 @@
+{
+  "name": "software_testing",
+  "version": "1.0.0",
+  "description": "basic unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Prince Ajuobi",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.4.0"
+  }
+}
